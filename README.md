@@ -19,8 +19,11 @@ The data used in this project contains information on over 10,000 board games. T
 
 ### Visualizations
 * Highly detailed graphs: The graphs in this project are highly detailed, providing a comprehensive analysis of the board game sales data.
-* Advanced libraries: To create these graphs, advanced libraries such as seaborn, matplotlib, plotly, and altair were utilized.
+
+* Advanced libraries: To create these graphs, advanced libraries such as plotly express, and altair were utilized.
+
 * Visually appealing: The use of advanced libraries ensures that the graphs are visually appealing and easy to understand.
+
 * Informative: Each graph contains a wealth of information that can be used to make informed decisions about sales strategies for the upcoming winter season.
 
 
